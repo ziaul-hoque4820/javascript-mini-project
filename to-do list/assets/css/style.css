@@ -1,0 +1,8 @@
+.container{
+    /* text-align: center; */
+    margin: auto;
+    background-color: beige;
+    width: 80%;
+    border-radius: 20px;
+    padding: 30px;
+}
