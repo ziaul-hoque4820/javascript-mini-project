@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    margin: auto;
+    background-color: beige;
+    width: 80%;
+    border-radius: 20px;
+    padding: 30px;
+}
+#fileInput {
+    background-color: azure;
+    border-radius: 5px;
+    padding: 8px 10px;
+}
+button{
+    padding: 8px 10px;
+    background-color: gold;
+    cursor: pointer;
+    border-radius: 5px;
+}
