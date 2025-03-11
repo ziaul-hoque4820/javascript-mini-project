@@ -1,0 +1,19 @@
+#container {
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+    background-color: azure;
+    border-radius: 20px;
+}
+#counter {
+    font-size: 40px;
+}
+button{
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
