@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin: auto;
+}
+#colorBox {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+#copyCode{
+    padding: 10px 15px;
+    background-color: bisque;
+    cursor: pointer;
+}
+#newColor {
+    padding: 10px 15px;
+    background-color: rgb(211, 124, 17);
+    margin-bottom: 10px;
+    cursor: pointer;
+}
